@@ -40,7 +40,7 @@ Follow these steps to set up and run the CI/CD pipeline:
    - Copy pom.xml to your repository's root directory or edit pom.xml if you need to change Maven settings.
 
 6. **Customize Dockerfile**
- - Create a Dockerfile tailored to your project. Make sure to include your build file (.jar/.war) in the image. View Dockerfile in this repository as guidance.
+   - Create a Dockerfile tailored to your project. Make sure to include your build file (.jar/.war) in the image. View Dockerfile in this repository as guidance.
 
 7. **Push to GitHub**:
    - Commit and push the files to your repository.
